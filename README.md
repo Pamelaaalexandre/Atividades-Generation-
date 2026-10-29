@@ -14,5 +14,5 @@ programa
 				escreva(num[x], "\n")
 			}
 		}
-	}7
+	}
 }
